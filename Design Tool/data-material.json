@@ -1,0 +1,247 @@
+[
+  {
+    "name": "Starch-Based Bioplastics",
+    "type": ["natural", "biodegradable polymer"],
+    "source": ["corn", "potato", "tapioca"],
+    "properties": "Flexible, low tensile strength, sensitive to moisture, low melting point (~160°C)",
+    "degradation_methods": [
+      { "name": "moisture", "image": "Moisture" },
+      { "name": "enzymatic", "image": "Enzymatic Degradation" },
+      { "name": "microbes", "image": "Microbial Degradation" }
+    ],
+    "degradation_description": "Biodegrades via microbial action, enzymes break down starch molecules, can be composted to enrich soil",
+    "applications": "Packaging films, bags, disposable tableware, agricultural mulch films",
+    "decomposition_time": "a few weeks to months in composting conditions",
+    "image": "Starch-Based Bioplastics"
+  },
+  {
+    "name": "Polyhydroxyalkanoates (PHAs)",
+    "type": ["synthetic", "biodegradable polymer"],
+    "source": ["bacterial fermentation", "sugar", "lipids"],
+    "properties": "Thermoplastic, high tensile strength, varied flexibility, melting point ranges from 50°C ~ 180°C",
+    "degradation_methods": [
+      { "name": "microbial", "image": "Microbial Degradation" },
+      { "name": "enzymatic", "image": "Enzymatic Degradation" },
+      { "name": "moisture", "image": "Moisture" }
+    ],
+    "degradation_description": "Microbial degradation: bacteria and fungi secrete enzymes that break down the polymer chains",
+    "applications": "Packaging materials, agricultural films, medical implants, drug delivery systems",
+    "decomposition_time": "3-6 months in composting conditions, years in natural soil environments",
+    "image": "Polyhydroxyalkanoates (PHAs).png"
+  },
+  {
+    "name": "Chitosan",
+    "type": ["natural", "biodegradable polymer"],
+    "source": ["seafood industry waste", "shrimp", "crabs"],
+    "properties": "Biocompatible, antimicrobial properties, film-forming ability",
+    "degradation_methods": [
+      { "name": "enzymatic", "image": "Enzymatic Degradation" },
+      { "name": "pH", "image": "pH-Induced Degradation" }
+    ],
+    "degradation_description": "Degrades through enzymatic action by lysozymes, breaking down into harmless sugars, degradation rate can be influenced by environmental pH",
+    "applications": "Wound dressings, biodegradable films, water treatment, agricultural coatings",
+    "decomposition_time": "weeks to months depending on environmental conditions",
+    "image": "Chitosan"
+  },
+  {
+    "name": "Pectin",
+    "type": ["natural", "biodegradable polymer"],
+    "source": ["citrus peels", "apple"],
+    "properties": "Gel-forming ability, water-soluble, forms viscous solutions, flexible film-forming properties",
+    "degradation_methods": [
+      { "name": "microbial", "image": "Microbial Degradation" },
+      { "name": "moisture", "image": "Moisture" },
+      { "name": "UV", "image": "Photodegradation" }
+    ],
+    "degradation_description": "Biodegrades through microbial action, highly soluble in water, which can lead to rapid degradation in moist environments",
+    "applications": "Edible films, packaging, pharmaceutical excipient, gelling agent in jams and jellies",
+    "decomposition_time": "weeks under composting conditions",
+    "image": "Pectin"
+  },
+  {
+    "name": "Algae-Based Bioplastics",
+    "type": ["natural", "polysaccharide"],
+    "source": ["brown seaweed", "algae biomass"],
+    "properties": "Can be flexible or rigid, good film-forming capabilities",
+    "degradation_methods": [
+      { "name": "microbial", "image": "Microbial Degradation" },
+      { "name": "enzymatic", "image": "Enzymatic Degradation" },
+      { "name": "pH", "image": "pH-Induced Degradation" }
+    ],
+    "degradation_description": "Biodegrades through microbial and enzymatic action, cultivation of algae absorbs CO₂, contributing to carbon neutrality",
+    "applications": "Packaging films, agricultural mulch films, disposable items, biofertilizers after degradation",
+    "decomposition_time": "weeks under composting conditions",
+    "image": "Algae-Based Bioplastics"
+  },
+  {
+    "name": "Sodium Alginate",
+    "type": ["natural", "biodegradable polymer"],
+    "source": ["seaweed", "algae biomass"],
+    "properties": "Forms viscous gels when cross-linked with calcium ions, water-soluble, film-forming abilities",
+    "degradation_methods": [
+      { "name": "water", "image": "Hydrolysis" },
+      { "name": "compost", "image": "Composting" },
+      { "name": "microbes", "image": "Microbial Degradation" }
+    ],
+    "degradation_description": "High solubility in water; cross-linking with calcium ions reduces solubility but allows for controlled degradation",
+    "applications": "Edible films, controlled-release pharmaceuticals, food thickening agent, wound dressings",
+    "decomposition_time": "weeks to months in composting conditions, faster in environments rich in alginate-degrading microbes",
+    "image": "Sodium Alginate"
+  },
+  {
+    "name": "Gelatin",
+    "type": ["natural", "protein polymer"],
+    "source": ["collagen", "animal skin", "cartilage"],
+    "properties": "Forms gels at low concentrations, good film-forming abilities, flexible but low tensile strength, sensitive to moisture and temperatures",
+    "degradation_methods": [
+      { "name": "moisture", "image": "Moisture" },
+      { "name": "compost", "image": "Composting" },
+      { "name": "microbes", "image": "Microbial Degradation" }
+    ],
+    "degradation_description": "Soluble in warm water; hydration accelerates degradation, thermal degradation occurs at higher temperatures (~100°C)",
+    "applications": "Pharmaceutical capsules, edible films, food industry as gelling agent, soft actuators",
+    "decomposition_time": "weeks under composting conditions",
+    "image": "Gelatin"
+  },
+  {
+    "name": "Food Waste Composite",
+    "type": ["natural", "biomass composite"],
+    "source": ["coffee grounds", "vegetable scraps", "fruit peels"],
+    "properties": "Variable depending on composition; can be molded into rigid forms, moderate mechanical strength",
+    "degradation_methods": [
+      { "name": "microbes", "image": "Microbial Degradation" },
+      { "name": "compost", "image": "Composting" }
+    ],
+    "degradation_description": "Rich in organic matter, making it highly susceptible to microbial decomposition; inclusion of natural binders (e.g., starch, lignin) can affect degradation rates",
+    "applications": "Containers, plant pots, packaging materials, building materials like particleboard alternatives",
+    "decomposition_time": "a few months under composting conditions",
+    "image": "Food Waste Composite"
+  },
+  {
+    "name": "Hemp Fiber",
+    "type": ["natural", "biodegradable fiber"],
+    "source": ["hemp plant"],
+    "properties": "High tensile strength, biodegradable, antimicrobial, water-resistant",
+    "degradation_methods": [
+      { "name": "microbial", "image": "Microbial Degradation" },
+      { "name": "compost", "image": "Composting" },
+      { "name": "moisture", "image": "Moisture" }
+    ],
+    "degradation_description": "Biodegrades through microbial and moisture exposure; durable in dry environments but breaks down in moist composting conditions",
+    "applications": "Textiles, ropes, biodegradable plastics, building materials",
+    "decomposition_time": "Months in composting conditions",
+    "image": "Hemp Fiber"
+  },
+  {
+    "name": "Calcium Carbonate",
+    "type": ["natural", "mineral composite"],
+    "source": ["crab shells", "oyster shells", "egg shells"],
+    "properties": "High rigidity, biocompatible, non-toxic, can be processed into powders or composites",
+    "degradation_methods": [
+      { "name": "acid", "image": "pH-Induced Degradation" },
+      { "name": "microbial", "image": "Microbial Degradation" }
+    ],
+    "degradation_description": "Degrades in acidic environments; can break down through microbial activity over time in compost",
+    "applications": "Biodegradable plastics filler, packaging, construction materials, soil amendments",
+    "decomposition_time": "Years in natural environments, faster in acidic or composting conditions",
+    "image": "Shell-Based Calcium Carbonate"
+  },
+  {
+    "name": "Cork",
+    "type": ["natural", "plant-based material"],
+    "source": ["cork oak bark"],
+    "properties": "Lightweight, elastic, impermeable, naturally renewable, excellent insulator",
+    "degradation_methods": [
+      { "name": "microbial", "image": "Microbial Degradation" },
+      { "name": "moisture", "image": "Moisture" }
+    ],
+    "degradation_description": "Naturally decomposes under composting conditions; microorganisms can accelerate breakdown in humid environments",
+    "applications": "Insulation, flooring, packaging, footwear, sustainable construction materials",
+    "decomposition_time": "Months to years depending on environmental exposure",
+    "image": "Cork"
+  },
+  {
+    "name": "Bagasse",
+    "type": ["natural", "biomass composite"],
+    "source": ["sugarcane residue"],
+    "properties": "Biodegradable, compostable, renewable, good rigidity, low thermal conductivity",
+    "degradation_methods": [
+      { "name": "compost", "image": "Composting" },
+      { "name": "microbial", "image": "Microbial Degradation" }
+    ],
+    "degradation_description": "Readily decomposes in composting conditions, providing organic material to the soil",
+    "applications": "Disposable tableware, packaging, bio-based composites",
+    "decomposition_time": "Weeks to months under composting conditions",
+    "image": "Bagasse"
+  },
+  {
+    "name": "Coconut Coir",
+    "type": ["natural", "plant fiber"],
+    "source": ["coconut husk"],
+    "properties": "Biodegradable, moisture-retentive, durable, excellent aeration properties",
+    "degradation_methods": [
+      { "name": "compost", "image": "Composting" },
+      { "name": "microbial", "image": "Microbial Degradation" }
+    ],
+    "degradation_description": "Decomposes under composting conditions; provides a slow-release of organic material and is resilient to quick decomposition",
+    "applications": "Plant growth medium, biodegradable pots, soil amendments, eco-friendly packaging",
+    "decomposition_time": "Months in composting environments",
+    "image": "Coconut Coir"
+  },
+  {
+    "name": "Rice Husk Composite",
+    "type": ["natural", "biomass composite"],
+    "source": ["rice husks"],
+    "properties": "Durable, compostable, low thermal conductivity, rich in silica",
+    "degradation_methods": [
+      { "name": "microbial", "image": "Microbial Degradation" },
+      { "name": "compost", "image": "Composting" }
+    ],
+    "degradation_description": "Decomposes in compost environments; microbial activity helps break down the fiber structure",
+    "applications": "Compostable plastics, packaging, building materials, agricultural applications",
+    "decomposition_time": "Months in composting conditions",
+    "image": "Rice Husk Composite"
+  },
+  {
+    "name": "Coffee Grounds Composite",
+    "type": ["natural", "biomass composite"],
+    "source": ["recycled coffee grounds"],
+    "properties": "Moderate strength, renewable, compostable, slight natural insulation properties",
+    "degradation_methods": [
+      { "name": "compost", "image": "Composting" },
+      { "name": "microbial", "image": "Microbial Degradation" }
+    ],
+    "degradation_description": "Decomposes readily in compost, enriching soil with organic material and nutrients",
+    "applications": "Biodegradable packaging, plant pots, building materials, cosmetic exfoliants",
+    "decomposition_time": "Weeks to months in composting environments",
+    "image": "Coffee Grounds Composite"
+  },
+  {
+    "name": "Silk Fibroin",
+    "type": ["natural", "protein fiber"],
+    "source": ["silkworm cocoons"],
+    "properties": "Biocompatible, biodegradable, strong tensile strength, excellent elasticity, versatile in forms (fibers, films, hydrogels)",
+    "degradation_methods": [
+      { "name": "enzymatic", "image": "Enzymatic Degradation" },
+      { "name": "microbial", "image": "Microbial Degradation" }
+    ],
+    "degradation_description": "Degrades naturally through enzymatic or microbial action, breaking down into amino acids that can be absorbed into the environment",
+    "applications": "Biomedical implants, tissue engineering, biodegradable textiles, eco-friendly packaging",
+    "decomposition_time": "Weeks to months in natural environments, depending on thickness and form",
+    "image": "Silk Fibroin"
+  },
+  {
+    "name": "Spider Silk",
+    "type": ["natural", "recombinant protein fiber"],
+    "source": ["engineered bacteria or yeast", "spiders (limited natural sources)"],
+    "properties": "Extremely strong and lightweight, biocompatible, biodegradable, can be produced synthetically through genetic engineering",
+    "degradation_methods": [
+      { "name": "enzymatic", "image": "Enzymatic Degradation" },
+      { "name": "microbial", "image": "Microbial Degradation" }
+    ],
+    "degradation_description": "Biodegrades under enzymatic action; highly compatible with natural ecosystems, breaking down into amino acids",
+    "applications": "Medical sutures, tissue engineering, biodegradable textiles, protective gear, eco-friendly packaging",
+    "decomposition_time": "Months to years depending on environmental conditions; faster in moist, enzyme-rich environments",
+    "image": "Spider Silk Protein"
+  }
+]

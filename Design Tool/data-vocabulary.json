@@ -1,0 +1,110 @@
+[
+  {
+    "name": "Fracture",
+    "description": "Break into two or more pieces along a weak point.",
+    "design_insight": "Visible division without complete separation, highlighting structural stress points in materials over time.",
+    "image": "Fracture"
+  },
+  {
+    "name": "Wrinkle",
+    "description": "Form small folds or creases due to compression or aging.",
+    "design_insight": "Wrinkling adds texture, evoking a sense of use or material fatigue, useful for organic or worn aesthetics.",
+    "image": "Wrinkle"
+  },
+  {
+    "name": "Unravel",
+    "description": "Come apart into threads or fibers through wear or stress.",
+    "design_insight": "Breaks materials down into smaller components providing modularity and recycling potential.",
+    "image": "Unravel"
+  },
+  {
+    "name": "Fragment",
+    "description": "Break into smaller, irregular pieces due to impact or brittleness.",
+    "design_insight": "Fragmentation creates numerous small parts, ideal for designs requiring disintegration or reuse of fragments.",
+    "image": "Fragment"
+  },
+  {
+    "name": "Decompose",
+    "description": "Break down into simpler organic components through microbial activity.",
+    "design_insight": "Progressive breakdown from a solid state to fragmented forms, allowing for nutrient recycling in natural environments.",
+    "image": "Decompose"
+  },
+  {
+    "name": "Dissolve",
+    "description": "Disintegrate into smaller parts when exposed to a solvent or environmental condition.",
+    "design_insight": "Complete material breakdown and disappearance without remnants.",
+    "image": "Dissolve"
+  },
+  {
+    "name": "Shed",
+    "description": "Lose or remove layers gradually, typically in a gradual and natural process.",
+    "design_insight": "Revealing new surfaces beneath or underlying materials.",
+    "image": "Shed"
+  },
+  {
+    "name": "Bulge",
+    "description": "Swell outward due to internal pressure, increase in size or volume.",
+    "design_insight": "Expansion causes changes in material dimensions, potentially altering the product's shape or fit over time.",
+    "image": "Bulge"
+  },
+  {
+    "name": "Shrink",
+    "description": "Reduce in size due to moisture loss, heat, or chemical reactions.",
+    "design_insight": "Shrinking creates tighter, denser forms, potentially enhancing material compactness or brittleness.",
+    "image": "Shrink"
+  },
+  {
+    "name": "Melt",
+    "description": "Change from solid to liquid under heat.",
+    "design_insight": "Melting leads to total form loss, useful in designs that require transition to a fluid state.",
+    "image": "Melt"
+  },
+  {
+    "name": "Crack",
+    "description": "Develop thin, linear breaks without full separation.",
+    "design_insight": "A precursor to deeper damage and indicates stress, useful for monitoring material fatigue.",
+    "image": "Crack"
+  },
+  {
+    "name": "Fade",
+    "description": "Gradually lose color or brightness.",
+    "design_insight": "Fading reflects exposure to elements, useful in designs where the passage of time or environmental interaction is highlighted.",
+    "image": "Fade"
+  },
+  {
+    "name": "Corrode",
+    "description": "Deteriorate by chemical action, often resulting in surface weakness.",
+    "design_insight": "Corrosion creates a rough, discolored appearance, signaling structural weakening over time.",
+    "image": "Corrode"
+  },
+  {
+    "name": "Sag",
+    "description": "Droop or sink due to weight, gravity, or weakened structure.",
+    "design_insight": "Sagging shows loss of structural integrity, indicating age or insufficient support in materials.",
+    "image": "Sag"
+  },
+  {
+    "name": "Erode",
+    "description": "Gradually wear away through friction or chemical action.",
+    "design_insight": "Erosion smooths surfaces over time, resulting in thinner material layers and a polished, worn look.",
+    "image": "Erode"
+  },
+  {
+    "name": "Lean",
+    "description": "Incline or bend due to structural weakening.",
+    "design_insight": "Leaning shows material instability, often a sign of imbalance or failing structural integrity.",
+    "image": "Lean"
+  },
+  {
+    "name": "Split",
+    "description": "Divide into separate parts, often along natural seams or points of stress.",
+    "design_insight": "Occurs due to material weaknesses or external forces, enabling easier disassembly or repurposing.",
+    "image": "Split"
+  },
+  {
+    "name": "Pit",
+    "description": "Develop surface indentations due to wear or corrosion.",
+    "design_insight": "Pitting adds texture, signifying age and use, useful in designs emphasizing weathered aesthetics.",
+    "image": "Pit"
+  }
+]

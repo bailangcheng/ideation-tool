@@ -1,0 +1,116 @@
+[
+  {
+    "name": "Enzymatic Degradation",
+    "description": "Breakdown of materials by enzymes produced by living organisms, accelerating the cleavage of specific chemical bonds. Presence of specific enzymes, optimal temperature, and pH levels; commonly occurs in biological environments.",
+    "design_insights": "Allows for targeted degradation; materials can be engineered to degrade in specific environments where the necessary enzymes are present.",
+    "images": ["Enzymatic Degradation-1.png"]
+  },
+  {
+    "name": "Photodegradation",
+    "description": "Breakdown of materials through exposure to light, particularly UV radiation, which causes chemical bonds in the material to break. Exposure to sunlight or artificial UV sources; intensity and wavelength of light affect the rate of degradation.",
+    "design_insights": "Useful for products intended for outdoor use where controlled degradation is desired, however, incomplete degradation can lead to microplastics.",
+    "images": ["Photodegradation-1.png"]
+  },
+  {
+    "name": "Hydrolysis",
+    "description": "A chemical process where water molecules break down the bonds within a material, leading to its disintegration. Industrial composting facilities create the ideal temperature and humidity for this process.",
+    "design_insights": "Allows for targeted degradation; materials can be engineered to degrade in specific environments where the necessary enzymes are present.",
+    "images": ["Hydrolysis-1.png"]
+  },
+  {
+    "name": "Microbial Degradation",
+    "description": "Breakdown of materials by microorganisms such as bacteria, fungi, and algae through enzymatic action. Requires the presence of microorganisms, optimal moisture, temperature, and pH levels in soil, compost, and marine environments.",
+    "design_insights": "Can ensure complete degradation without toxic residues; ideal for single-use products and packaging that are likely to end up in natural environments.",
+    "images": ["Microbial Degradation-1.png", "Microbial Degradation-2.png"]
+  },
+  {
+    "name": "Composting",
+    "description": "Biological decomposition of organic materials under controlled aerobic conditions, resulting in compost—a nutrient-rich soil amendment.",
+    "design_insights": "Can ensure that they can be returned to the soil safely, completing a biological lifecycle and supporting sustainable waste management practices.",
+    "images": ["Composting-1.png"]
+  },
+  {
+    "name": "Heat",
+    "description": "Breakdown of materials due to exposure to elevated temperatures, causing chemical bond cleavage, oxidation, or other thermal reactions leading to material deterioration.",
+    "design_insights": "Useful for applications like heat-triggered drug release or temporary components that disintegrate after exposure to certain temperatures.",
+    "images": ["Heat-1.png"]
+  },
+  {
+    "name": "Moisture",
+    "description": "Degradation due to exposure to high humidity levels, where moisture in the air leads to hydrolysis or facilitates microbial growth that breaks down the material.",
+    "design_insights": "Packaging and product design can account for moisture exposure to either protect the material or allow for controlled degradation.",
+    "images": ["Moisture-1.png"]
+  },
+  {
+    "name": "pH-Induced Degradation",
+    "description": "Occurs due to exposure to environments with extreme pH levels (either acidic or basic), which can catalyze hydrolysis or other chemical reactions, leading to the breakdown of the material.",
+    "design_insights": "Applications such as drug delivery systems that release medication in the stomach (acidic pH), or agricultural films that degrade in soils with certain pH levels.",
+    "images": ["pH-Induced Degradation-1.png"]
+  },
+  {
+    "name": "Time-Programmed Degradation",
+    "description": "Materials engineered to degrade after a specific time period, regardless of external environmental conditions. This process uses time-sensitive chemical bonds or encapsulated catalysts that activate after a predetermined duration.",
+    "design_insights": "Material with embedded time-sensitive elements (e.g. microcapsules releasing catalysts) are being explored in fields like pharmaceuticals, agriculture.",
+    "images": ["Time-Programmed Degradation-1.png"]
+  },
+  {
+    "name": "Sequential Multi-Layer Degradation",
+    "description": "A material composed of multiple layers, each designed to degrade at different rates or under specific conditions. This allows the outer layer to protect the inner layers during use, and then sequentially degrade as environmental conditions change.",
+    "design_insights": "Can be tailored to degrade only when specific environmental triggers like moisture reach the inner layers, ensuring that products stay functional until needed.",
+    "images": ["Sequential Multi-Layer Degradation-1.png"]
+  },
+  {
+    "name": "Multi-Capsule Degradation",
+    "description": "Materials embedded with micro-capsules that contain degradation agents (e.g., enzymes, acids, or catalysts). These capsules release their contents in response to specific triggers, such as pressure, moisture, or temperature.",
+    "design_insights": "Provides high precision and control over where and when materials degrade, offering tailored degradation rates for different parts of a product.",
+    "images": ["Multi-Capsule Degradation-1.png"]
+  },
+  {
+    "name": "Mechanical Degradation",
+    "description": "Physical breakdown of materials due to mechanical stress, friction, or abrasion, which weakens the structure and eventually leads to disintegration.",
+    "design_insights": "Relevant for products exposed to wear and tear or as a controlled degradation mechanism in temporary structures.",
+    "images": ["Mechanical Degradation-1.png", "Mechanical Degradation-2.png"]
+  },
+  {
+    "name": "Bioleaching",
+    "description": "A process in which specific microorganisms, such as certain bacteria and fungi, produce acids or other compounds that dissolve metals from electronic waste and other materials, enabling metal extraction and reducing the environmental impact.",
+    "design_insights": "Ideal for sustainable recovery of valuable metals from electronic waste, reducing the need for harmful chemicals. Can be applied to electronic and industrial waste recycling, making it suitable for eco-friendly circular economy models.",
+    "images": ["Bioleaching-1.png", "Bioleaching-2.png"]
+  },
+  {
+    "name": "Oxidative Degradation",
+    "description": "A process where materials break down due to exposure to oxygen, often accelerated by UV light or high temperatures. This leads to weakening and fragmentation of the material.",
+    "design_insights": "Useful for outdoor products that require slow degradation over time, though complete oxidation may not occur, so careful design is needed to avoid microplastic formation.",
+    "images": ["Oxidative Degradation-1.png"]
+  },
+  {
+    "name": "Eat by Animals",
+    "description": "Materials designed to be safely consumed by animals, leading to their breakdown and nutrient absorption through the digestive systems of various organisms.",
+    "design_insights": "Ideal for agricultural applications like animal feed packaging or medical devices that need to be ingested and safely broken down within living organisms.",
+    "images": ["Eat by Animals-1.png", "Eat by Animals-2.png", "Eat by Animals-3.png"]
+  },
+  {
+    "name": "Edible",
+    "description": "Materials designed to be safely consumed by humans or animals, allowing for intentional degradation through eating, leading to full integration with the digestive system without waste residue.",
+    "design_insights": "Ideal for single-use food packaging, edible utensils, and temporary products, reducing waste while providing a unique consumer experience. Edible materials can enhance sustainability by transforming waste into nutrients.",
+    "images": ["Edible--1.png"]
+  },
+  {
+    "name": "Shape-Morphing Degradation",
+    "description": "Materials that change shape over time or in response to environmental stimuli, leading to structural degradation or functional transformation as they alter their geometry.",
+    "design_insights": "Suitable for adaptive products, temporary structures, or items that require transformation before eventual degradation, enhancing functionality while ensuring lifecycle completion.",
+    "images": ["Shape-Morphing Degradation-1.png", "Shape-Morphing Degradation-2.png", "Shape-Morphing Degradation-3.png"]
+  },
+  {
+    "name": "Magnetically-Induced Degradation",
+    "description": "Materials engineered to degrade or alter their structure when exposed to magnetic fields, allowing for controlled degradation through magnetic activation.",
+    "design_insights": "Useful in smart materials and electronics where controlled degradation is needed via magnetic activation, enabling smart sensors or biodegradable electronic components.",
+    "images": ["Magnetically-Induced Degradation-1.png"]
+  },
+  {
+    "name": "Weathering-Induced Degradation",
+    "description": "Materials that degrade through exposure to natural weather conditions, such as wind, rain, and temperature fluctuations, leading to gradual breakdown.",
+    "design_insights": "Useful for outdoor applications where natural elements can assist in controlled degradation, such as eco-friendly packaging or disposable outdoor equipment.",
+    "images": ["Weathering-Induced Degradation-1.png"]
+  }
+]

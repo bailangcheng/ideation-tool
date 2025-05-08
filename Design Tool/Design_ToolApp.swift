@@ -1,9 +1,3 @@
-//
-//  Design_ToolApp.swift
-//  Design Tool
-//
-//  Created by Bailang Cheng on 2024/10/22.
-//
 
 import SwiftUI
 

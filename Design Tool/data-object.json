@@ -1,0 +1,481 @@
+[
+  {
+    "name": "Paper Cup",
+    "categories": ["Single-use Consumables", "Disposable Containers"],
+    "image": "card-Paper Cup"
+  },
+  {
+    "name": "Chair",
+    "categories": ["Furniture", "Home & Office Equipment"],
+    "image": "card-Chair"
+  },
+  {
+    "name": "Disposable Cutlery",
+    "categories": ["Single-use Consumables", "Food & Beverage Containers"],
+    "image": "card-Disposable Cutlery"
+  },
+  {
+    "name": "Plastic Bags",
+    "categories": ["Single-use Consumables", "Packaging Solutions"],
+    "image": "card-Plastic Bags"
+  },
+  {
+    "name": "Tickets",
+    "categories": ["Single-use Consumables", "Personal Items"],
+    "image": "card-Tickets"
+  },
+  {
+    "name": "Shopping Bag",
+    "categories": ["Single-use Consumables", "Reusable Bags"],
+    "image": "card-Shopping Bag"
+  },
+  {
+    "name": "Takeout Food Box",
+    "categories": ["Food & Beverage Containers", "Disposable Containers"],
+    "image": "card-Takeout Box"
+  },
+  {
+    "name": "Food Packaging",
+    "categories": ["Single-use Consumables", "Packaging Solutions"],
+    "image": "card-Food Packaging"
+  },
+  {
+    "name": "Tents",
+    "categories": ["Outdoor & Camping Gear", "Shelter"],
+    "image": "card-Tent"
+  },
+  {
+    "name": "Fruit Sleeve Net",
+    "categories": ["Agriculture", "Packaging Solutions"],
+    "image": "card-Fruit Sleeve Net"
+  },
+  {
+    "name": "T-Shirt",
+    "categories": ["Clothing & Textiles", "Apparel"],
+    "image": "card-T-Shirt"
+  },
+  {
+    "name": "Shoe",
+    "categories": ["Clothing & Textiles", "Footwear"],
+    "image": "card-Shoe"
+  },
+  {
+    "name": "Face Mask",
+    "categories": ["Medical", "Hygiene Products"],
+    "image": "card-Face Mask"
+  },
+  {
+    "name": "Glucose Monitors Patch",
+    "categories": ["Medical", "Medical Devices"],
+    "image": "card-Glucose Monitors Patch"
+  },
+  {
+    "name": "E-Cigarettes (Vapes)",
+    "categories": ["Personal Electronics", "Smoking Alternatives"],
+    "image": "card- E-Cigarettes (Vapes)"
+  },
+  {
+    "name": "Smartphone",
+    "categories": ["Consumer Electronics", "Personal Electronics"],
+    "image": "card-Smartphone"
+  },
+  {
+    "name": "Cables",
+    "categories": ["Electronics Accessories", "Wiring Components"],
+    "image": "card-Cables"
+  },
+  {
+    "name": "Bottle Caps",
+    "categories": ["Packaging Solutions", "Single-use Consumables"],
+    "image": "card-Bottle Caps"
+  },
+  {
+    "name": "Receipts",
+    "categories": ["Office Supplies", "Financial Items"],
+    "image": "card-Receipts"
+  },
+  {
+    "name": "Fish Bait",
+    "categories": ["Fishing Supplies", "Bait"],
+    "image": "card-Fish Bait"
+  },
+  {
+    "name": "Fishing Net",
+    "categories": ["Fishing Supplies", "Fishing Equipment"],
+    "image": "card-Fishing Net"
+  },
+  {
+    "name": "Aquaculture Cage",
+    "categories": ["Aquaculture", "Marine Farming Equipment"],
+    "image": "card-Aquaculture Cage"
+  },
+  {
+    "name": "Coffee Capsules",
+    "categories": ["Single-use Consumables", "Food Items"],
+    "image": "card-Coffee Capsules"
+  },
+  {
+    "name": "Printed Circuit Board",
+    "categories": ["Consumer Electronics", "Electronic Components"],
+    "image": "card-Printed Circuit Board"
+  },
+  {
+    "name": "Bottles",
+    "categories": ["Food & Beverage Containers", "Disposable Containers"],
+    "image": "card-Bottles"
+  },
+  {
+    "name": "Towels",
+    "categories": ["Home Goods", "Textiles"],
+    "image": "card-Towels"
+  },
+  {
+    "name": "Pens",
+    "categories": ["Office Supplies", "Writing Instruments"],
+    "image": "card-Pens"
+  },
+  {
+    "name": "Sticky Notes",
+    "categories": ["Office Supplies", "Paper Products"],
+    "image": "card-Sticky Notes"
+  },
+  {
+    "name": "Envelopes",
+    "categories": ["Office Supplies", "Paper Products"],
+    "image": "card-Envelopes"
+  },
+  {
+    "name": "Laptops",
+    "categories": ["Consumer Electronics", "Personal Electronics"],
+    "image": "card-Laptops"
+  },
+  {
+    "name": "Smartwatches",
+    "categories": ["Consumer Electronics", "Wearable Devices"],
+    "image": "card-Smartwatches"
+  },
+  {
+    "name": "Fitness Trackers",
+    "categories": ["Consumer Electronics", "Wearable Devices"],
+    "image": "card-Fitness Trackers"
+  },
+  {
+    "name": "Toasters",
+    "categories": ["Consumer Electronics", "Home Appliances"],
+    "image": "card-Toasters"
+  },
+  {
+    "name": "Batteries",
+    "categories": ["Consumer Electronics", "Power Sources"],
+    "image": "card-Batteries"
+  },
+  {
+    "name": "Underwear",
+    "categories": ["Clothing & Textiles", "Apparel"],
+    "image": "card-Underwear"
+  },
+  {
+    "name": "Plastic Wrappers",
+    "categories": ["Single-use Consumables", "Packaging Solutions"],
+    "image": "card-Plastic Wrappers"
+  },
+  {
+    "name": "Toothbrushes",
+    "categories": ["Personal Care Products", "Hygiene Products"],
+    "image": "card-Toothbrushes"
+  },
+  {
+    "name": "Razors",
+    "categories": ["Personal Care Products", "Hygiene Products"],
+    "image": "card-Razors"
+  },
+  {
+    "name": "Cotton Swabs",
+    "categories": ["Personal Care Products", "Hygiene Products"],
+    "image": "card-Cotton Swabs"
+  },
+  {
+    "name": "Diapers",
+    "categories": ["Personal Care Products", "Hygiene Products"],
+    "image": "card-Diapers"
+  },
+  {
+    "name": "Sanitary Pads or Tampons",
+    "categories": ["Personal Care Products", "Hygiene Products"],
+    "image": "card-Sanitary Pads"
+  },
+  {
+    "name": "Tea Bags",
+    "categories": ["Single-use Consumables", "Food Items"],
+    "image": "card-Tea Bags"
+  },
+  {
+    "name": "Straws",
+    "categories": ["Single-use Consumables", "Food Items"],
+    "image": "card-Straws"
+  },
+  {
+    "name": "Incense Sticks",
+    "categories": ["Single-use Consumables", "Personal Items"],
+    "image": "card-Incense Sticks"
+  },
+  {
+    "name": "Wristbands",
+    "categories": ["Single-use Consumables", "Event Accessories"],
+    "image": "card-Wristbands"
+  },
+  {
+    "name": "Sleeping Bags",
+    "categories": ["Outdoor & Camping Gear", "Shelter"],
+    "image": "card-Sleeping Bags"
+  },
+  {
+    "name": "Syringes",
+    "categories": ["Medical", "Consumables"],
+    "image": "card-Syringes"
+  },
+  {
+    "name": "Bandages",
+    "categories": ["Medical", "Consumables"],
+    "image": "card-Bandages"
+  },
+  {
+    "name": "Cardboard Boxes",
+    "categories": ["Packaging Materials", "Packaging"],
+    "image": "card-Cardboard Boxes"
+  },
+  {
+    "name": "Bubble Wrap",
+    "categories": ["Packaging Materials", "Protective Packaging"],
+    "image": "card-Bubble Wrap"
+  },
+  {
+    "name": "Styrofoam",
+    "categories": ["Packaging Materials", "Protective Packaging"],
+    "image": "card-Styrofoam"
+  },
+  {
+    "name": "USB Drives",
+    "categories": ["Consumer Electronics", "Data Storage Devices"],
+    "image": "card-USB Drives"
+  },
+  {
+    "name": "Public Benches",
+    "categories": ["Urban Furniture", "Public Infrastructure"],
+    "image": "card-Public Benches"
+  },
+  {
+    "name": "Pavement",
+    "categories": ["Infrastructure", "Transportation Pathways"],
+    "image": "card-Pavement"
+  },
+  {
+    "name": "Garbage Bags",
+    "categories": ["Single-use Consumables", "Waste Disposal"],
+    "image": "card-Garbage Bags"
+  },
+  {
+    "name": "Artificial Flowers",
+    "categories": ["Decorative Items", "Home Accessories"],
+    "image": "card-Artificial Flowers"
+  },
+  {
+    "name": "Umbrella",
+    "categories": ["Personal Accessories", "Weather Protection"],
+    "image": "card-Umbrella"
+  },
+  {
+    "name": "Contact Lens",
+    "categories": ["Personal Accessories", "Eyewear"],
+    "image": "card-Contact Lens"
+  },
+  {
+    "name": "Sauce Sachets",
+    "categories": ["Food & Beverage Containers", "Single-use Condiments"],
+    "image": "card-Sauce Sachets"
+  },
+  {
+    "name": "Seasoning Packets",
+    "categories": ["Food & Beverage Containers", "Single-use Condiments"],
+    "image": "card-Seasoning Packets"
+  },
+  {
+    "name": "Disposable Gloves",
+    "categories": ["Medical", "Hygiene Products"],
+    "image": "card-Disposable Gloves"
+  },
+  {
+    "name": "Plastic Wrap",
+    "categories": ["Packaging Materials", "Protective Packaging"],
+    "image": "card-Plastic Wrap"
+  },
+  {
+    "name": "Plant Pots",
+    "categories": ["Gardening", "Garden Supplies"],
+    "image": "card-Plant Pots"
+  },
+  {
+    "name": "Seed Packets",
+    "categories": ["Gardening", "Consumables"],
+    "image": "card-Seed Packets"
+  },
+  {
+    "name": "Fertilizer Bags",
+    "categories": ["Gardening", "Consumables"],
+    "image": "card-Fertilizer Bags"
+  },
+  {
+    "name": "Toys",
+    "categories": ["Toys & Games", "Children's Toys"],
+    "image": "card-Toys"
+  },
+  {
+    "name": "Balloons",
+    "categories": ["Toys & Games", "Party Supplies"],
+    "image": "card-Balloons"
+  },
+  {
+    "name": "Clothing RFID Tags",
+    "categories": ["Retail Products", "Clothing Accessories"],
+    "image": "card-Clothing RFID Tags"
+  },
+  {
+    "name": "Mulching Films",
+    "categories": ["Agriculture", "Landscaping"],
+    "image": "card-Mulching Films"
+  },
+  {
+    "name": "Banners",
+    "categories": ["Outdoor Events", "Advertising Materials"],
+    "image": "card-Banners"
+  },
+  {
+    "name": "Cable Ties",
+    "categories": ["Fastening Supplies", "Electronics Accessories"],
+    "image": "card-Cable Ties"
+  },
+  {
+    "name": "Marine Monitors",
+    "categories": ["Natural Environment Monitoring Devices", "Marine Equipment"],
+    "image": "card-Marine Monitors"
+  },
+  {
+    "name": "Forestry Fire Trackers",
+    "categories": ["Natural Environment Monitoring Devices", "Forest Equipment"],
+    "image": "card-Forestry Fire Trackers"
+  },
+  {
+    "name": "Wildlife GPS Trackers",
+    "categories": ["Natural Environment Monitoring Devices", "Conservation Devices"],
+    "image": "card-Wildlife GPS Trackers"
+  },
+  {
+    "name": "Roof",
+    "categories": ["Building Materials", "Construction Elements"],
+    "image": "card-Roof"
+  },
+  {
+    "name": "Traffic Cone",
+    "categories": ["Infrastructure", "Traffic Management"],
+    "image": "card-Traffic Cone"
+  },
+  {
+    "name": "Fence",
+    "categories": ["Outdoor & Garden", "Safety Equipment"],
+    "image": "card-Fence"
+  },
+  {
+    "name": "Road",
+    "categories": ["Infrastructure", "Transportation Pathways"],
+    "image": "card-Road"
+  },
+  {
+    "name": "Drone",
+    "categories": ["Consumer Electronics", "Aerial Devices"],
+    "image": "card-Drone"
+  },
+  {
+    "name": "Swarm Robots",
+    "categories": ["Industrial Robotics", "Automation"],
+    "image": "card-Swarm Robots"
+  },
+  {
+    "name": "House",
+    "categories": ["Architecture", "Commercial & Residential Structures"],
+    "image": "card-Building"
+  },
+  {
+    "name": "Statue",
+    "categories": ["Art & Sculpture", "Monuments"],
+    "image": "card-Statue"
+  },
+  {
+    "name": "Monument",
+    "categories": ["Historical Landmarks", "Public Art"],
+    "image": "card-Monument"
+  },
+  {
+    "name": "Rocket Booster",
+    "categories": ["Aerospace", "Propulsion Systems"],
+    "image": "card-Rocket Booster"
+  },
+  {
+    "name": "Traffic Light",
+    "categories": ["Infrastructure", "Urban Equipment"],
+    "image": "card-Traffic Light"
+  },
+  {
+    "name": "Billboard",
+    "categories": ["Advertising", "Outdoor Media"],
+    "image": "card-Billboard"
+  },
+  {
+    "name": "Vending Machine",
+    "categories": ["Consumer Electronics", "Retail Systems"],
+    "image": "card-Vending Machine"
+  },
+  {
+    "name": "Paper Airplane",
+    "categories": ["Toys & Games", "Recreational Items"],
+    "image": "card-Paper Airplane"
+  },
+  {
+    "name": "Solar Panel",
+    "categories": ["Energy", "Sustainable Technology"],
+    "image": "card-Solar Panel"
+  },
+  {
+    "name": "Electric Vehicle Battery",
+    "categories": ["Energy Storage", "Automotive Components"],
+    "image": "card-Electric Vehicle Battery"
+  },
+  {
+    "name": "Satellite",
+    "categories": ["Aerospace", "Communication Devices"],
+    "image": "card-Satellite"
+  },
+  {
+    "name": "Wearable Devices",
+    "categories": ["Personal Electronics", "Health Monitoring"],
+    "image": "card-Wearable Devices"
+  },
+  {
+    "name": "Vertical Farms",
+    "categories": ["Agriculture", "Food Production"],
+    "image": "card-Vertical Farms"
+  },{
+    "name": "Medical Nanobots",
+    "categories": ["Healthcare", "Medical Devices"],
+    "image": "card-Medical Nanobots"
+  },
+  {
+    "name": "Smart Skin",
+    "categories": ["Textiles", "Wearable Technology"],
+    "image": "card-Smart Skin"
+  },
+  {
+    "name": "3D Printed Food Cartridges",
+    "categories": ["Food Production", "Consumables"],
+    "image": "card-3D Printed Food Cartridges"
+  }
+]

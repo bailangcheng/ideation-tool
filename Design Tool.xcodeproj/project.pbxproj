@@ -6,6 +6,10 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		9FA926AF2CD8D8C70070AFFF /* SplineRuntime in Frameworks */ = {isa = PBXBuildFile; productRef = 9FA926AE2CD8D8C70070AFFF /* SplineRuntime */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXContainerItemProxy section */
 		9F5F0B4A2CC76196004417AF /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
@@ -52,6 +56,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9FA926AF2CD8D8C70070AFFF /* SplineRuntime in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -112,6 +117,7 @@
 			);
 			name = "Design Tool";
 			packageProductDependencies = (
+				9FA926AE2CD8D8C70070AFFF /* SplineRuntime */,
 			);
 			productName = "Design Tool";
 			productReference = 9F5F0B392CC76194004417AF /* Design Tool.app */;
@@ -195,6 +201,9 @@
 			);
 			mainGroup = 9F5F0B302CC76194004417AF;
 			minimizedProjectReferenceProxies = 1;
+			packageReferences = (
+				9FA926A92CD8D80E0070AFFF /* XCRemoteSwiftPackageReference "spline-ios" */,
+			);
 			preferredProjectObjectVersion = 77;
 			productRefGroup = 9F5F0B3A2CC76194004417AF /* Products */;
 			projectDirPath = "";
@@ -396,8 +405,10 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"Design Tool/Preview Content\"";
+				DEVELOPMENT_TEAM = M3H8BFTV66;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "Design-Tool-Info.plist";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -424,8 +435,10 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"Design Tool/Preview Content\"";
+				DEVELOPMENT_TEAM = M3H8BFTV66;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "Design-Tool-Info.plist";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -552,6 +565,25 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		9FA926A92CD8D80E0070AFFF /* XCRemoteSwiftPackageReference "spline-ios" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/splinetool/spline-ios";
+			requirement = {
+				branch = main;
+				kind = branch;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		9FA926AE2CD8D8C70070AFFF /* SplineRuntime */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 9FA926A92CD8D80E0070AFFF /* XCRemoteSwiftPackageReference "spline-ios" */;
+			productName = SplineRuntime;
+		};
+/* End XCSwiftPackageProductDependency section */
 	};
 	rootObject = 9F5F0B312CC76194004417AF /* Project object */;
 }
